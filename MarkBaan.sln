@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarkBaan.Server", "MarkBaan.Server\MarkBaan.Server.csproj", "{C5E3F5E9-28D3-408B-B48E-CFF4237139B5}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "markbaan.client", "markbaan.client\markbaan.client.esproj", "{7BC938B2-444F-4FDC-99E8-281FE1BC1881}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5E3F5E9-28D3-408B-B48E-CFF4237139B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5E3F5E9-28D3-408B-B48E-CFF4237139B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5E3F5E9-28D3-408B-B48E-CFF4237139B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5E3F5E9-28D3-408B-B48E-CFF4237139B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BC938B2-444F-4FDC-99E8-281FE1BC1881}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BC938B2-444F-4FDC-99E8-281FE1BC1881}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BC938B2-444F-4FDC-99E8-281FE1BC1881}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7BC938B2-444F-4FDC-99E8-281FE1BC1881}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BC938B2-444F-4FDC-99E8-281FE1BC1881}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BC938B2-444F-4FDC-99E8-281FE1BC1881}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BE2CBEE-E49D-4AFE-B4B8-46AD0A7AC307}
+	EndGlobalSection
+EndGlobal
